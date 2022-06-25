@@ -1,5 +1,5 @@
 # Hamburger-Menu
-A simple hamburger menu
+A simple hamburger menu made with CSS
 
 
 - A preview video
